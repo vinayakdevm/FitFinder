@@ -1,0 +1,147 @@
+[
+    {
+      "id": "arms-1",
+      "name": "Dumbbell Bicep Curl",
+      "bodyPart": ["biceps"],
+      "equipment": ["dumbbells"],
+      "goals": ["muscle-gain","strength"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Stand upright holding dumbbells at sides.",
+        "Curl weights to shoulder keeping elbows stationary.",
+        "Lower under control to full extension."
+      ],
+      "tips": "Avoid swinging; keep elbows fixed.",
+      "rating": 4.5,
+      "ratingDesc": "Classic bicep builder for all levels.",
+      "image": "exercises/dbc.jpg",
+      "video": "https://www.youtube.com/embed/av7-8igSXTs"
+    },
+    {
+      "id": "arms-2",
+      "name": "Hammer Curl",
+      "bodyPart": ["biceps","brachialis"],
+      "equipment": ["dumbbells"],
+      "goals": ["thickness","strength"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Hold dumbbells neutral (thumbs up) and curl to shoulder.",
+        "Lower slowly keeping wrist neutral.",
+        "Focus on controlled movement."
+      ],
+      "tips": "Targets brachialis for bicep peak and thickness.",
+      "rating": 4.4,
+      "ratingDesc": "Great for arm thickness and grip strength.",
+      "image": "exercises/hammer.jpg",
+      "video": "https://www.youtube.com/embed/zC3nLlEvin4"
+    },
+    {
+      "id": "arms-3",
+      "name": "Tricep Rope Pushdown",
+      "bodyPart": ["triceps"],
+      "equipment": ["cable-machine"],
+      "goals": ["definition","muscle-gain"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Attach rope to high pulley and push down until arms locked.",
+        "Return slowly with control.",
+        "Keep elbows pinned to sides."
+      ],
+      "tips": "Spread rope at bottom for full contraction.",
+      "rating": 4.3,
+      "ratingDesc": "High-rep triceps finisher that burns.",
+      "image": "exercises/trp.jpg",
+      "video": "https://www.youtube.com/embed/2-LAMcpzODU"
+    },
+    {
+      "id": "arms-4",
+      "name": "Close-Grip Bench Press",
+      "bodyPart": ["chest","triceps"],
+      "equipment": ["barbell","bench"],
+      "goals": ["strength","triceps"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Grip bar narrower than shoulder width.",
+        "Lower to mid-chest then press up focusing on triceps.",
+        "Keep elbows tucked."
+      ],
+      "tips": "Keep wrists straight and avoid flaring elbows.",
+      "rating": 4.2,
+      "ratingDesc": "Effective for heavy triceps strength work.",
+      "image": "exercises/closegrip.jpg",
+      "video": "https://www.youtube.com/embed/DzA2xZhDGeo?si=XQkYRVIC8kv1sEvw"
+    },
+    {
+      "id": "arms-5",
+      "name": "Overhead Tricep Extension",
+      "bodyPart": ["triceps"],
+      "equipment": ["dumbbell","cable"],
+      "goals": ["mass","definition"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Raise weight overhead and lower behind head with elbows pointed forward.",
+        "Extend arms overhead returning to start.",
+        "Keep elbows stable and close together."
+      ],
+      "tips": "Use slow eccentric and avoid flaring elbows.",
+      "rating": 4.2,
+      "ratingDesc": "Great for long head triceps development.",
+      "image": "exercises/overhead.jpg",
+      "video": "https://www.youtube.com/embed/DzA2xZhDGeo?si=XQkYRVIC8kv1sEvw"
+    },
+    {
+      "id": "arms-6",
+      "name": "Concentration Curl",
+      "bodyPart": ["biceps"],
+      "equipment": ["dumbbell","bench"],
+      "goals": ["peak","definition"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Sit and curl single dumbbell with elbow braced on inner thigh.",
+        "Squeeze at top and lower slowly.",
+        "Focus on full contraction."
+      ],
+      "tips": "Excellent for peak and mind-muscle connection.",
+      "rating": 4.1,
+      "ratingDesc": "Isolated bicep finisher for detail work.",
+      "image": "exercises/concentration.jpg",
+      "video": "https://www.youtube.com/embed/VMbDQ8PZazY?si=ClPvtfvrPAesyPz9"
+    },
+    {
+      "id": "arms-7",
+      "name": "Reverse Curl",
+      "bodyPart": ["forearms","biceps"],
+      "equipment": ["barbell","ez-bar"],
+      "goals": ["grip","definition"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Curl with palms facing down to target forearms and brachialis.",
+        "Lower with controlled tempo.",
+        "Use moderate weight to avoid wrist strain."
+      ],
+      "tips": "Great for grip and forearm size.",
+      "rating": 3.9,
+      "ratingDesc": "Helpful accessory for grip and forearm strength.",
+      "image": "exercises/reverse.jpg",
+      "video": "https://www.youtube.com/embed/nRgxYX2Ve9w?si=mGv9IzLP7L0pB2Cw"
+    },
+    {
+      "id": "arms-8",
+      "name": "Diamond Push-Up",
+      "bodyPart": ["triceps","chest"],
+      "equipment": ["bodyweight"],
+      "goals": ["endurance","strength"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Form hands in diamond shape under chest and perform push-ups.",
+        "Lower chest to hands and press up.",
+        "Keep core tight throughout."
+      ],
+      "tips": "Good bodyweight triceps challenge with minimal equipment.",
+      "rating": 4.0,
+      "ratingDesc": "Bodyweight emphasis on triceps strength.",
+      "image": "exercises/diamond.jpg",
+      "video": "https://www.youtube.com/embed/UCmqw3kKZ38?si=67fqKsksePLWOmO7"
+    }
+  ]
+  

@@ -1,0 +1,147 @@
+[
+    {
+      "id": "cardio-1",
+      "name": "Jump Rope",
+      "bodyPart": ["cardio","legs"],
+      "equipment": ["jump-rope"],
+      "goals": ["endurance","conditioning"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Jump with both feet together using a steady rhythm.",
+        "Maintain upright posture and light knees.",
+        "Use intervals for conditioning."
+      ],
+      "tips": "Start with short intervals and increase duration gradually.",
+      "rating": 4.5,
+      "ratingDesc": "Simple, high-efficiency cardio tool.",
+      "image": "exercises/jump.jpg",
+      "video": "https://www.youtube.com/embed/u3zgHI8QnqE?si=6EYU0lp3H_pXx-DA"
+    },
+    {
+      "id": "cardio-2",
+      "name": "Interval Sprints",
+      "bodyPart": ["cardio","legs"],
+      "equipment": ["track","treadmill"],
+      "goals": ["conditioning","fat-loss"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Perform short maximal sprints followed by recovery intervals.",
+        "Repeat for set rounds (e.g., 10 × 30s on / 90s off).",
+        "Warm up thoroughly beforehand."
+      ],
+      "tips": "Keep sprint form tight to reduce injury risk.",
+      "rating": 4.7,
+      "ratingDesc": "One of the most time-efficient cardio methods.",
+      "image": "exercises/interval.jpg",
+      "video": "https://www.youtube.com/embed/Ky_1tRwadCs?si=8a-u4dkHvP7zxNrs"
+    },
+    {
+      "id": "cardio-3",
+      "name": "Rowing (Machine)",
+      "bodyPart": ["cardio","full-body"],
+      "equipment": ["rower"],
+      "goals": ["conditioning","endurance"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Drive with legs, hinge at hips, then pull with arms on recovery.",
+        "Maintain smooth rhythm and full strokes.",
+        "Use steady pace or intervals as needed."
+      ],
+      "tips": "Focus on leg drive rather than pulling with arms.",
+      "rating": 4.6,
+      "ratingDesc": "Excellent low-impact full-body cardio.",
+      "image": "exercises/rowing.jpg",
+      "video": "https://www.youtube.com/embed/ij4095Oo1BA?si=BmHq5TlT1hMZ117f"
+    },
+    {
+      "id": "cardio-4",
+      "name": "Stair Climber",
+      "bodyPart": ["legs","cardio"],
+      "equipment": ["stair-climber","stairs"],
+      "goals": ["conditioning","strength"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Climb at steady pace or perform intervals for intensity.",
+        "Use posture and step fully with heel drive.",
+        "Keep moderate hand usage for balance only."
+      ],
+      "tips": "Long climbs build endurance; intervals build power.",
+      "rating": 4.1,
+      "ratingDesc": "Great for low-impact lower-body conditioning.",
+      "image": "exercises/stair.jpg",
+      "video": "https://www.youtube.com/embed/Zn1O9LcKW9E?si=BphdWDNhAuTo5JvL"
+    },
+    {
+      "id": "cardio-5",
+      "name": "Cycling (Indoor)",
+      "bodyPart": ["cardio","legs"],
+      "equipment": ["bike","spin-bike"],
+      "goals": ["endurance","fat-loss"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Maintain cadence and resistance for target zones.",
+        "Use intervals or steady-state depending on goals.",
+        "Keep posture neutral and core engaged."
+      ],
+      "tips": "Use music or classes to maintain motivation and tempo.",
+      "rating": 4.2,
+      "ratingDesc": "Low-impact endurance builder with high calorie burn.",
+      "image": "exercises/cycling.jpg",
+      "video": "https://www.youtube.com/embed/ewrf_rCHUdA?si=SpmnljH-XDmamxFV"
+    },
+    {
+      "id": "cardio-6",
+      "name": "Rowing Intervals",
+      "bodyPart": ["cardio","full-body"],
+      "equipment": ["rower"],
+      "goals": ["conditioning","interval-training"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Perform short high-power rows followed by recovery.",
+        "Focus on stroke power and core stability.",
+        "Repeat for 8–12 rounds."
+      ],
+      "tips": "Monitor wattage or split times for consistency.",
+      "rating": 4.3,
+      "ratingDesc": "Structured intervals for efficient conditioning.",
+      "image": "exercises/rowinginterval.jpg",
+      "video": "https://www.youtube.com/embed/L04hLYzKV5A?si=17iUWLYa4RlUaDXV"
+    },
+    {
+      "id": "cardio-7",
+      "name": "Bear Crawls",
+      "bodyPart": ["full-body","cardio"],
+      "equipment": ["bodyweight"],
+      "goals": ["conditioning","stability"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Crawl forward on hands and feet keeping hips low.",
+        "Move with controlled, quick steps for distance or time.",
+        "Keep head neutral and core braced."
+      ],
+      "tips": "Great for short metabolic conditioning and mobility.",
+      "rating": 4.0,
+      "ratingDesc": "Functional full-body conditioning movement.",
+      "image": "exercises/bearcr.jpg",
+      "video": "https://www.youtube.com/embed/Ee1BQNI6zN4?si=-v7y6iGUpL_5nFbV"
+    },
+    {
+      "id": "cardio-8",
+      "name": "High Knees",
+      "bodyPart": ["cardio","legs"],
+      "equipment": ["bodyweight"],
+      "goals": ["conditioning","warm-up"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Run on the spot bringing knees high toward chest.",
+        "Maintain quick cadence and breathe constantly.",
+        "Use for warm-ups or short intervals."
+      ],
+      "tips": "Keep posture upright and land softly on midfoot.",
+      "rating": 3.9,
+      "ratingDesc": "Simple warm-up and conditioning drill.",
+      "image": "exercises/highknees.jpg",
+      "video": "https://www.youtube.com/embed/N4VwL0WGhzw?si=1V69zpxWG86AOTrm"
+    }
+  ]
+  

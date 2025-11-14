@@ -1,0 +1,147 @@
+[
+    {
+      "id": "shoulders-1",
+      "name": "Dumbbell Shoulder Press",
+      "bodyPart": ["shoulders","triceps"],
+      "equipment": ["dumbbells","bench"],
+      "goals": ["strength","mass"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Press dumbbells overhead from shoulder height.",
+        "Lower with control to start position.",
+        "Keep core engaged."
+      ],
+      "tips": "Avoid arching lower back; brace core.",
+      "rating": 4.6,
+      "ratingDesc": "Primary overhead pressing movement.",
+      "image": "exercises/dsp.jpg",
+      "video": "https://www.youtube.com/embed/qEwKCR5JCog"
+    },
+    {
+      "id": "shoulders-2",
+      "name": "Lateral Raise",
+      "bodyPart": ["shoulders","delts"],
+      "equipment": ["dumbbells"],
+      "goals": ["definition","symmetry"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Raise dumbbells laterally to shoulder level with slight elbow bend.",
+        "Lower slowly to starting position.",
+        "Use controlled tempo and small weights initially."
+      ],
+      "tips": "Focus on mid-deltoid activation; avoid momentum.",
+      "rating": 4.4,
+      "ratingDesc": "Key for shoulder width and shape.",
+      "image": "exercises/lateral.jpg",
+      "video": "https://www.youtube.com/embed/3VcKaXpzqRo"
+    },
+    {
+      "id": "shoulders-3",
+      "name": "Seated Rear Delt Fly",
+      "bodyPart": ["rear-delts","upper-back"],
+      "equipment": ["dumbbells","bench"],
+      "goals": ["posture","balance"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Lean forward on bench and raise dumbbells to side focusing on rear delts.",
+        "Squeeze shoulder blades at top.",
+        "Lower with control."
+      ],
+      "tips": "Keep motion strict to avoid traps dominating.",
+      "rating": 4.3,
+      "ratingDesc": "Great for shoulder balance and posture.",
+      "image": "exercises/seatedrear.jpg",
+      "video": "https://www.youtube.com/embed/d_feFQGGVh4?si=74nxfSBW1gGtJvvH"
+    },
+    {
+      "id": "shoulders-4",
+      "name": "Arnold Press",
+      "bodyPart": ["shoulders","triceps"],
+      "equipment": ["dumbbells"],
+      "goals": ["mass","strength"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Rotate palms during press from facing you to facing forward at top.",
+        "Lower with control rotating palms back.",
+        "Maintain steady tempo."
+      ],
+      "tips": "Control rotation to protect shoulders.",
+      "rating": 4.2,
+      "ratingDesc": "Good all-around shoulder builder.",
+      "image": "exercises/arnold.jpg",
+      "video": "https://www.youtube.com/embed/mXRhpXwW-gs?si=8GfXIdbtCDCQ4y9U"
+    },
+    {
+      "id": "shoulders-5",
+      "name": "Face Pull",
+      "bodyPart": ["rear-delts","upper-back"],
+      "equipment": ["cable-machine"],
+      "goals": ["posture","stability"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Pull rope to face level, separate hands and squeeze shoulder blades.",
+        "Return under control.",
+        "Keep elbows high and external rotation."
+      ],
+      "tips": "Excellent for shoulder health and posture.",
+      "rating": 4.6,
+      "ratingDesc": "Essential for balanced shoulders.",
+      "image": "exercises/facepulled.jpg",
+      "video": "https://www.youtube.com/embed/0Po47vvj9g4?si=6rrRqYsRPp51pV0U"
+    },
+    {
+      "id": "shoulders-6",
+      "name": "Front Raise",
+      "bodyPart": ["front-delts"],
+      "equipment": ["dumbbells","plate"],
+      "goals": ["definition","strength"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Raise weight in front to shoulder height keeping arms slightly bent.",
+        "Lower slowly with control.",
+        "Use moderate weight to avoid swinging."
+      ],
+      "tips": "Control eccentric phase to protect shoulders.",
+      "rating": 4.0,
+      "ratingDesc": "Simple isolation for front delts.",
+      "image": "exercises/front.jpg",
+      "video": "https://www.youtube.com/embed/hRJ6tR5-if0?si=LgcIAU168hAC6-Bc"
+    },
+    {
+      "id": "shoulders-7",
+      "name": "Upright Row",
+      "bodyPart": ["traps","delts"],
+      "equipment": ["barbell","dumbbells"],
+      "goals": ["strength","mass"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Pull weight to chest with elbows high and out.",
+        "Lower with control.",
+        "Keep a moderate grip to avoid impingement."
+      ],
+      "tips": "Use moderate ROM; stop if shoulder pain occurs.",
+      "rating": 3.9,
+      "ratingDesc": "Powerful for traps but attention to shoulder health needed.",
+      "image": "exercises/upright.jpg",
+      "video": "https://www.youtube.com/embed/um3VVzqunPU?si=K_aiYRXWA1G-pcfr"
+    },
+    {
+      "id": "shoulders-8",
+      "name": "Cable Lateral Raise",
+      "bodyPart": ["delts"],
+      "equipment": ["cable-machine"],
+      "goals": ["definition","symmetry"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Use low cable and raise arm laterally to shoulder height.",
+        "Control return.",
+        "Keep movement strict and avoid momentum."
+      ],
+      "tips": "Provides constant tension through range.",
+      "rating": 4.1,
+      "ratingDesc": "Good alternative to dumbbell raises.",
+      "image": "exercises/cablelatr.jpg",
+      "video": "https://www.youtube.com/embed/Z5FA9aq3L6A?si=5HtmG6H6gfvIHOX8"
+    }
+  ]
+  

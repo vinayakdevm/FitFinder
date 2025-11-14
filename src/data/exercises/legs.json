@@ -1,0 +1,147 @@
+[
+    {
+      "id": "legs-1",
+      "name": "Barbell Back Squat",
+      "bodyPart": ["legs","glutes","core"],
+      "equipment": ["barbell","rack"],
+      "goals": ["strength","power"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Position bar on upper back and set stance shoulder-width.",
+        "Descend by bending hips and knees to at least parallel.",
+        "Drive through heels to stand."
+      ],
+      "tips": "Keep chest up and knees tracking toes.",
+      "rating": 4.9,
+      "ratingDesc": "Foundational lower-body strength builder.",
+      "image": "exercises/barbellback.jpg",
+      "video": "https://www.youtube.com/embed/-bJIpOq-LWk?si=5LNaZwwMsi9dm8B-"
+    },
+    {
+      "id": "legs-2",
+      "name": "Romanian Deadlift",
+      "bodyPart": ["hamstrings","glutes","back"],
+      "equipment": ["barbell","dumbbells"],
+      "goals": ["posterior-chain","strength"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Hinge at hips keeping back straight.",
+        "Lower weights to mid-shin and return by driving hips forward.",
+        "Maintain slight knee bend."
+      ],
+      "tips": "Focus on hamstring stretch, not lumbar rounding.",
+      "rating": 4.7,
+      "ratingDesc": "Excellent hamstring and glute developer.",
+      "image": "exercises/romandead.jpg",
+      "video": "https://www.youtube.com/embed/2SHsk9AzdjA"
+    },
+    {
+      "id": "legs-3",
+      "name": "Walking Lunges",
+      "bodyPart": ["legs","glutes","core"],
+      "equipment": ["bodyweight","dumbbells"],
+      "goals": ["stability","hypertrophy"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Step forward and lower until both knees are ~90°.",
+        "Push through front heel to step forward with other leg.",
+        "Alternate legs with rhythm."
+      ],
+      "tips": "Keep torso upright and knee aligned over ankle.",
+      "rating": 4.4,
+      "ratingDesc": "Functional unilateral leg builder.",
+      "image": "exercises/walkinglung.jpg",
+      "video": "https://www.youtube.com/embed/D7KaRcUTQeE"
+    },
+    {
+      "id": "legs-4",
+      "name": "Leg Press",
+      "bodyPart": ["legs","glutes"],
+      "equipment": ["machine"],
+      "goals": ["strength","hypertrophy"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Sit and place feet shoulder-width on platform.",
+        "Lower platform toward you with control.",
+        "Press through heels to extend legs without locking knees."
+      ],
+      "tips": "Keep lower back on pad and focus on heel drive.",
+      "rating": 4.3,
+      "ratingDesc": "High-volume leg builder with low skill demand.",
+      "image": "exercises/legpress.jpg",
+      "video": "https://www.youtube.com/embed/yZmx_Ac3880?si=EOtE2-KHs2xbi7LB"
+    },
+    {
+      "id": "legs-5",
+      "name": "Bulgarian Split Squat",
+      "bodyPart": ["legs","glutes","core"],
+      "equipment": ["bench","dumbbells"],
+      "goals": ["balance","strength"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Rear foot elevated on bench, front foot forward.",
+        "Lower until front thigh near parallel, push up through front heel.",
+        "Keep torso upright and core tight."
+      ],
+      "tips": "Use lighter loads until balance improves.",
+      "rating": 4.5,
+      "ratingDesc": "Powerful unilateral quad and glute move.",
+      "image": "exercises/bss.jpg",
+      "video": "https://www.youtube.com/embed/2C-uNgKwPLE"
+    },
+    {
+      "id": "legs-6",
+      "name": "Calf Raise",
+      "bodyPart": ["calves"],
+      "equipment": ["machine","dumbbells"],
+      "goals": ["definition","strength"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Stand on an elevated surface with heels hanging.",
+        "Raise heels as high as possible, pause, then lower slowly.",
+        "Use controlled tempo and full ROM."
+      ],
+      "tips": "Don’t rush — slow eccentrics build muscle.",
+      "rating": 4.2,
+      "ratingDesc": "Key for calf strength and shape.",
+      "image": "exercises/calf.jpg",
+      "video": "https://www.youtube.com/embed/c5Kv6-fnTj8?si=-qMw42lDfcUBwYoR"
+    },
+    {
+      "id": "legs-7",
+      "name": "Glute Bridge",
+      "bodyPart": ["glutes","hamstrings","core"],
+      "equipment": ["bodyweight","barbell"],
+      "goals": ["hypertrophy","glute-strength"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Lie on back, feet flat, drive hips up by squeezing glutes.",
+        "Pause at top then lower with control.",
+        "Add weight across hips for progression."
+      ],
+      "tips": "Drive through heels and avoid lumbar extension.",
+      "rating": 4.4,
+      "ratingDesc": "Excellent for glute activation and strength.",
+      "image": "exercises/glutebri.jpg",
+      "video": "https://www.youtube.com/embed/8bbE64NuDTU"
+    },
+    {
+      "id": "legs-8",
+      "name": "Step-Up",
+      "bodyPart": ["legs","glutes"],
+      "equipment": ["bench","dumbbells"],
+      "goals": ["stability","conditioning"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Step up onto bench driving through heel, step down controlled.",
+        "Alternate legs or repeat on one side for sets.",
+        "Keep torso upright and core tight."
+      ],
+      "tips": "Controlled descent improves stability.",
+      "rating": 4.1,
+      "ratingDesc": "Functional single-leg strength movement.",
+      "image": "exercises/stepup.jpg",
+      "video": "https://www.youtube.com/embed/wfhXnLILqdk?si=g14POL-HtUB5X95y"
+    }
+  ]
+  
