@@ -1,49 +1,89 @@
-# 💪 FitFinder
+# 💪 FitFinder — Next-Gen Fitness Experience
 
-FitFinder is a modern and intuitive fitness web application designed to help users find exercises, view muscle-wise workouts, and generate custom routines.  
-Built using **React, Vite, Tailwind CSS, Framer Motion**, and deployed on **Vercel**.
+FitFinder is a modern, sleek, AI-inspired fitness web app built with **React, Vite, Tailwind CSS, Framer Motion**, and polished with premium glass-morphism UI.
 
-This app includes:
-- 📚 Detailed exercise images  
-- 🧠 Smart routine generator  
-- ⚡ Smooth UI animations  
-- 🔎 Exercise search & filters  
-- 📱 Responsive, mobile-friendly layout  
+This is the **all-new V2**, featuring:  
+✨ Custom Workouts  
+✨ Voice-Guided Workout Mode  
+✨ Workout Logger  
+✨ Weekly Meal Planner  
+✨ Progress Tracker  
+✨ Smooth animations + mobile-first UI  
 
 ---
 
-## 🚀 Features
+## 🚀 Highlights of FitFinder V2
 
-### 🔥 Exercise Finder  
-Browse exercises with:
-- Images  
+### 🧭 Exercise Finder
+Discover exercises with:
+- HD images  
 - Step-by-step instructions  
-- Targeted muscle groups  
-- Filtering & search  
-
-### 🧩 Routine Generator  
-Generate:
-- Full-body routines  
-- Muscle-specific workouts  
-- Custom difficulty levels  
-
-### 💨 Smooth Animations  
-Thanks to **Framer Motion**, the UI feels modern, fresh, and super interactive.
-
-### 🖼️ Static Image Support  
-All exercise and gym images are stored in **public/assets** and **public/exercises** to ensure smooth loading on Vercel.
+- Muscle targeting  
+- Search + filters  
+- Smooth transitions  
 
 ---
 
-## 🛠️ Tech Stack
+### 🧩 Custom Workout Builder
+Build your own routine with:
+- Drag-and-drop reordering (DnD Kit)  
+- Edit sets, reps, rest  
+- Save + load workouts  
+- Start workout instantly  
 
-| Category       | Technology Used |
-|----------------|----------------|
+---
+
+### 🎧 Workout Mode 
+A lightweight personal trainer:
+- Announces set numbers  
+- Rest countdown (auto)  
+- Auto workout logging  
+
+---
+
+### 📝 Workout Logger
+Keep track of your lifting sessions:
+- Sets / reps / weight  
+- Notes  
+- Save locally  
+- Export JSON  
+- Clean, card-style UI  
+
+---
+
+### 🍽️ Weekly Meal Planner
+Smart weekly planner:
+- Based on calorie target  
+- Veg / Non-veg / Both  
+- Indian / Western / Mixed cuisine  
+- Weekly meals auto-generated  
+- Grocery list auto-generated  
+- Save, load, export plans  
+
+---
+
+### 📊 Progress Tracker
+Track your improvements:
+- Total workouts  
+- Total sets  
+- Time trained  
+- 7-day activity graph  
+- Workout history  
+
+---
+
+## 🛠 Tech Stack
+
+| Category       | Technology |
+|----------------|-----------|
 | Frontend       | React + Vite |
-| Styling        | Tailwind CSS |
+| Styling        | Tailwind CSS (Glassmorphism UI) |
 | Animations     | Framer Motion |
+| Drag & Drop    | @dnd-kit/core |
+| Icons          | lucide-react |
+| Storage        | LocalStorage |
 | Deployment     | Vercel |
-| File Handling  | Public asset directories |
+
 
 
 
