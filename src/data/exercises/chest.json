@@ -1,0 +1,147 @@
+[
+    {
+      "id": "chest-1",
+      "name": "Push-Up",
+      "bodyPart": ["chest","triceps","shoulders"],
+      "equipment": ["bodyweight"],
+      "goals": ["strength","endurance"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Start in a high plank with hands under shoulders.",
+        "Lower chest toward floor keeping body straight.",
+        "Drive through palms to return to start."
+      ],
+      "tips": "Keep core tight and avoid sagging hips.",
+      "rating": 4.8,
+      "ratingDesc": "Classic bodyweight chest-builder.",
+      "image": "/exercises/pushup.jpg",
+      "video": "https://www.youtube.com/embed/IODxDxX7oi4"
+    },
+    {
+      "id": "chest-2",
+      "name": "Barbell Bench Press",
+      "bodyPart": ["chest","triceps"],
+      "equipment": ["barbell","bench"],
+      "goals": ["strength","muscle-gain"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Lie on bench, grip bar slightly wider than shoulders.",
+        "Lower bar to mid-chest with control.",
+        "Press bar up to full arm extension."
+      ],
+      "tips": "Retract scapula and maintain controlled descent.",
+      "rating": 4.7,
+      "ratingDesc": "Primary mass builder for chest.",
+      "image": "/exercises/barbellbenchpress.jpg",
+      "video": "https://www.youtube.com/embed/gRVjAtPip0Y"
+    },
+    {
+      "id": "chest-3",
+      "name": "Incline Dumbbell Press",
+      "bodyPart": ["chest","shoulders","triceps"],
+      "equipment": ["dumbbells","bench"],
+      "goals": ["strength","upper-chest"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Set bench to 30–45° incline.",
+        "Press dumbbells up and slightly together.",
+        "Lower with control to chest level."
+      ],
+      "tips": "Use full range; avoid flared elbows.",
+      "rating": 4.6,
+      "ratingDesc": "Great for upper chest development.",
+      "image": "exercises/inclinedumbellpress.jpg",
+      "video": "https://www.youtube.com/embed/8iPEnn-ltC8"
+    },
+    {
+      "id": "chest-4",
+      "name": "Dumbbell Fly",
+      "bodyPart": ["chest"],
+      "equipment": ["dumbbells","bench"],
+      "goals": ["definition","muscle-gain"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Lie on flat bench with slight elbow bend.",
+        "Open arms wide in an arc until you feel chest stretch.",
+        "Bring dumbbells together above chest."
+      ],
+      "tips": "Keep tension on chest; avoid overstretching.",
+      "rating": 4.4,
+      "ratingDesc": "Isolation for chest shape and stretch.",
+      "image": "exercises/dumbbellfly.jpg",
+      "video": "https://www.youtube.com/embed/eozdVDA78K0"
+    },
+    {
+      "id": "chest-5",
+      "name": "Cable Cross-Over",
+      "bodyPart": ["chest"],
+      "equipment": ["cable-machine"],
+      "goals": ["definition","muscle-gain"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Stand in the center of cable station.",
+        "Pull handles down and together in front of chest.",
+        "Control return to start."
+      ],
+      "tips": "Vary angle to emphasize different chest parts.",
+      "rating": 4.3,
+      "ratingDesc": "Great finisher for chest workouts.",
+      "image": "exercises/cablecrossover.jpg",
+      "video": "https://www.youtube.com/embed/taI4XduLpTk?si=Q1gZAS7P6B6ZT0vc"
+    },
+    {
+      "id": "chest-6",
+      "name": "Decline Bench Press",
+      "bodyPart": ["chest","triceps"],
+      "equipment": ["barbell","bench"],
+      "goals": ["strength","lower-chest"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Set bench decline; use spotter if heavy.",
+        "Lower bar to lower chest area then press up.",
+        "Control the eccentric phase."
+      ],
+      "tips": "Focus on controlled motion and stable feet.",
+      "rating": 4.2,
+      "ratingDesc": "Targets lower chest fibers.",
+      "image": "exercises/declinebenchpress.jpg",
+      "video": "https://www.youtube.com/embed/taI4XduLpTk?si=Q1gZAS7P6B6ZT0vc"
+    },
+    {
+      "id": "chest-7",
+      "name": "Chest Dips",
+      "bodyPart": ["chest","triceps","shoulders"],
+      "equipment": ["dip-bars"],
+      "goals": ["strength","mass"],
+      "difficulty": "advanced",
+      "instructions": [
+        "Use parallel bars; lean slightly forward.",
+        "Lower until shoulders below elbows.",
+        "Push up until arms straight."
+      ],
+      "tips": "Add weight for progression once bodyweight is easy.",
+      "rating": 4.5,
+      "ratingDesc": "Powerful mass-movement when done correctly.",
+      "image": "exercises/chestdips.jpg",
+      "video": "https://www.youtube.com/embed/yN6Q1UI_xkE?si=d5cU1PU3rqlNPq7U"
+    },
+    {
+      "id": "chest-8",
+      "name": "Incline Push-Up",
+      "bodyPart": ["chest","triceps","core"],
+      "equipment": ["bench"],
+      "goals": ["endurance","beginner-friendly"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Place hands on elevated surface; keep body straight.",
+        "Lower chest toward surface, then push up.",
+        "Maintain core tension throughout."
+      ],
+      "tips": "Good regression for full push-up strength.",
+      "rating": 4.1,
+      "ratingDesc": "Accessible introduction to pressing.",
+      "image": "exercises/inclinepushup.jpg",
+      "video": "https://www.youtube.com/embed/Me9bHFAxnCs?si=UfV5zquZwffwCG8T"
+    }
+  ]
+  

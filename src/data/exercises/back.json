@@ -1,0 +1,147 @@
+[
+    {
+      "id": "back-1",
+      "name": "Pull-Up",
+      "bodyPart": ["back","biceps","shoulders"],
+      "equipment": ["pull-up-bar"],
+      "goals": ["strength","muscle-gain"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Hang from bar with overhand grip.",
+        "Pull chest to bar using back and lats.",
+        "Lower with control to full hang."
+      ],
+      "tips": "Avoid kipping; use strict reps for strength.",
+      "rating": 4.9,
+      "ratingDesc": "Top lat builder and strength test.",
+      "image": "exercises/pullup.jpg",
+      "video": "https://www.youtube.com/embed/eGo4IYlbE5g"
+    },
+    {
+      "id": "back-2",
+      "name": "Barbell Bent-Over Row",
+      "bodyPart": ["back","biceps"],
+      "equipment": ["barbell"],
+      "goals": ["strength","muscle-gain"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Hinge at hips keeping back flat.",
+        "Pull bar to lower ribs while squeezing shoulder blades.",
+        "Lower bar under control."
+      ],
+      "tips": "Keep neck neutral and hips steady.",
+      "rating": 4.6,
+      "ratingDesc": "Essential thickness movement for the back.",
+      "image": "exercises/barbellbent.jpg",
+      "video": "https://www.youtube.com/embed/vT2GjY_Umpw"
+    },
+    {
+      "id": "back-3",
+      "name": "Lat Pulldown",
+      "bodyPart": ["back","biceps"],
+      "equipment": ["cable-machine"],
+      "goals": ["strength","muscle-gain"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Sit anchored, grip bar wide.",
+        "Pull to upper chest while squeezing lats.",
+        "Return under control."
+      ],
+      "tips": "Avoid leaning back excessively; focus on lats.",
+      "rating": 4.4,
+      "ratingDesc": "Great lat-width developer for all levels.",
+      "image": "exercises/latpulldown.jpg",
+      "video": "https://www.youtube.com/embed/CAwf7n6Luuc"
+    },
+    {
+      "id": "back-4",
+      "name": "Seated Cable Row",
+      "bodyPart": ["back","rear-delts","biceps"],
+      "equipment": ["cable-machine"],
+      "goals": ["definition","muscle-gain"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Sit upright with cable handle.",
+        "Pull handle to abdomen, squeeze shoulder blades.",
+        "Return with control."
+      ],
+      "tips": "Use scapular retraction and avoid shrugging.",
+      "rating": 4.3,
+      "ratingDesc": "Fantastic for mid-back development.",
+      "image": "exercises/seatedcablerow.jpg",
+      "video": "https://www.youtube.com/embed/GZbfZ033f74"
+    },
+    {
+      "id": "back-5",
+      "name": "Single-Arm Dumbbell Row",
+      "bodyPart": ["back","lats","biceps"],
+      "equipment": ["dumbbell","bench"],
+      "goals": ["balance","muscle-gain"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Place one knee on bench and row dumbbell to hip.",
+        "Squeeze lats at top, lower slowly.",
+        "Keep torso stable."
+      ],
+      "tips": "Avoid rotating torso; focus on lat squeeze.",
+      "rating": 4.5,
+      "ratingDesc": "Great unilateral lat isolation.",
+      "image": "exercises/singlearm.jpg",
+      "video": "https://www.youtube.com/embed/DMo3HJoawrU?si=Uv8bywQfUEwdPDQo"
+    },
+    {
+      "id": "back-6",
+      "name": "Romanian Deadlift",
+      "bodyPart": ["hamstrings","back","glutes"],
+      "equipment": ["barbell"],
+      "goals": ["strength","posterior-chain"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Hinge at hips with slight knee bend.",
+        "Lower bar toward mid-shin keeping back flat.",
+        "Drive hips forward to stand."
+      ],
+      "tips": "Focus on hip hinge and hamstring control.",
+      "rating": 4.7,
+      "ratingDesc": "Excellent for posterior chain strength.",
+      "image": "exercises/romandead.jpg",
+      "video": "https://www.youtube.com/embed/7j-2w4-P14I?si=lRVnY1nosmjdHPrx"
+    },
+    {
+      "id": "back-7",
+      "name": "Face Pulls",
+      "bodyPart": ["rear-delts","upper-back"],
+      "equipment": ["cable-machine"],
+      "goals": ["posture","stability"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Set rope at face height and pull to forehead.",
+        "Separate hands and squeeze shoulder blades.",
+        "Return slowly with control."
+      ],
+      "tips": "Excellent for shoulder health and posture.",
+      "rating": 4.6,
+      "ratingDesc": "Key exercise for healthy shoulders.",
+      "image": "exercises/facepulls.jpg",
+      "video": "https://www.youtube.com/embed/0Po47vvj9g4?si=Yjdo35n9spiDtQwf"
+    },
+    {
+      "id": "back-8",
+      "name": "Inverted Row",
+      "bodyPart": ["back","biceps","core"],
+      "equipment": ["bar","rack"],
+      "goals": ["strength","progressions"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Set bar at waist height and lie under it.",
+        "Pull chest to bar keeping body straight.",
+        "Lower under control."
+      ],
+      "tips": "Adjust foot position to change difficulty.",
+      "rating": 4.2,
+      "ratingDesc": "Great bodyweight row for back strength.",
+      "image": "exercises/invertrow.jpg",
+      "video": "https://www.youtube.com/embed/KOaCM1HMwU0?si=k5LvAhpxfeICev4I"
+    }
+  ]
+  

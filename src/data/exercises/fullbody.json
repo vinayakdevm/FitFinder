@@ -1,0 +1,147 @@
+[
+    {
+      "id": "fullbody-1",
+      "name": "Burpee",
+      "bodyPart": ["full-body","cardio"],
+      "equipment": ["bodyweight"],
+      "goals": ["conditioning","endurance"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "From standing, drop to a squat, kick feet back into plank, do a push-up, jump feet forward, and explode up.",
+        "Keep rhythm steady and breathe.",
+        "Use scaled versions if necessary."
+      ],
+      "tips": "Maintain form over speed to avoid injury.",
+      "rating": 4.3,
+      "ratingDesc": "High-intensity full-body conditioning move.",
+      "image": "exercises/burpee.jpg",
+      "video": "https://www.youtube.com/embed/NCqbpkoiyXE?si=AP62A2IiJtZIjW6E"
+    },
+    {
+      "id": "fullbody-2",
+      "name": "Kettlebell Swing",
+      "bodyPart": ["glutes","back","legs"],
+      "equipment": ["kettlebell"],
+      "goals": ["power","conditioning"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Hinge at hips and drive kettlebell forward using hip thrust.",
+        "Control the swing on the return.",
+        "Keep arms relaxed; power from hips."
+      ],
+      "tips": "Master hip hinge before heavy swings.",
+      "rating": 4.6,
+      "ratingDesc": "Powerful conditioning movement for posterior chain.",
+      "image": "exercises/kettle.jpg",
+      "video": "https://www.youtube.com/embed/1cVT3ee9mgU?si=FVd7qPUa0k4An5iA"
+    },
+    {
+      "id": "fullbody-3",
+      "name": "Thruster",
+      "bodyPart": ["full-body","shoulders","legs"],
+      "equipment": ["barbell","dumbbells"],
+      "goals": ["power","conditioning"],
+      "difficulty": "advanced",
+      "instructions": [
+        "Perform a front squat then press the weight overhead in one fluid motion.",
+        "Use legs to drive the press.",
+        "Keep core braced and avoid rounding."
+      ],
+      "tips": "Good for metabolic conditioning and power.",
+      "rating": 4.4,
+      "ratingDesc": "Intense full-body movement blending squat and press.",
+      "image": "exercises/thruster.jpg",
+      "video": "https://www.youtube.com/embed/sLIswEpOHng?si=vsW82z-_G86sWe_W"
+    },
+    {
+      "id": "fullbody-4",
+      "name": "Clean & Press (Dumbbell)",
+      "bodyPart": ["full-body","power"],
+      "equipment": ["dumbbells"],
+      "goals": ["power","strength"],
+      "difficulty": "advanced",
+      "instructions": [
+        "Clean dumbbells to shoulders then press overhead using leg drive.",
+        "Control the catch and press phases.",
+        "Use hip and leg coordination for the drive."
+      ],
+      "tips": "Good technical lift — start light and emphasize form.",
+      "rating": 4.5,
+      "ratingDesc": "Great for total-body power and athleticism.",
+      "image": "exercises/clean and.jpg",
+      "video": "https://www.youtube.com/embed/Dt7Aqrxd-PA?si=tBCVPQJwutH8_sCC"
+    },
+    {
+      "id": "fullbody-5",
+      "name": "Farmer's Walk",
+      "bodyPart": ["full-body","grip"],
+      "equipment": ["dumbbells","kettlebells"],
+      "goals": ["strength","endurance"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Hold heavy weights at sides and walk with upright posture for distance or time.",
+        "Keep core braced and shoulders down.",
+        "Maintain steady breathing."
+      ],
+      "tips": "Great for grip, core, and conditioning.",
+      "rating": 4.4,
+      "ratingDesc": "Simple and brutally effective for full-body conditioning.",
+      "image": "exercises/farmer.jpg",
+      "video": "https://www.youtube.com/embed/8OtwXwrJizk?si=4K2_1rer-BzFPZ_d"
+    },
+    {
+      "id": "fullbody-6",
+      "name": "Jump Squat",
+      "bodyPart": ["legs","power","cardio"],
+      "equipment": ["bodyweight"],
+      "goals": ["power","explosiveness"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Squat down then explode vertically into a jump, land softly and repeat.",
+        "Use arm drive and soft knees on landing.",
+        "Maintain tension on landing to protect knees."
+      ],
+      "tips": "Limit reps to maintain explosive quality.",
+      "rating": 4.2,
+      "ratingDesc": "Good plyometric for lower-body power.",
+      "image": "exercises/jumpsq.jpg",
+      "video": "https://www.youtube.com/embed/BRfxI2Es2lE?si=BSEijg9faBTFJgdo"
+    },
+    {
+      "id": "fullbody-7",
+      "name": "Battle Ropes",
+      "bodyPart": ["full-body","cardio"],
+      "equipment": ["battle-ropes"],
+      "goals": ["conditioning","power"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Grip ropes and perform waves, slams, or alternate movements for intervals.",
+        "Use hips and legs to create power.",
+        "Keep core engaged for stability."
+      ],
+      "tips": "Great metabolic and upper-body endurance tool.",
+      "rating": 4.0,
+      "ratingDesc": "High-intensity conditioning with low technical demand.",
+      "image": "exercises/battle.jpg",
+      "video": "https://www.youtube.com/embed/zw0OMi00X5g?si=Q5KXBKOfWjpvmEpm"
+    },
+    {
+      "id": "fullbody-8",
+      "name": "Turkish Get-Up",
+      "bodyPart": ["full-body","core","shoulders"],
+      "equipment": ["kettlebell"],
+      "goals": ["stability","mobility"],
+      "difficulty": "advanced",
+      "instructions": [
+        "From lying, use the kettlebell to stand up while keeping it overhead, then reverse to return to floor.",
+        "Move deliberately through each step.",
+        "Keep eyes on the kettlebell for stability."
+      ],
+      "tips": "Progress very slowly; great for shoulder and core stability.",
+      "rating": 4.5,
+      "ratingDesc": "Complex movement improving total-body coordination.",
+      "image": "exercises/turkish.jpg",
+      "video": "https://www.youtube.com/embed/sgd8n917Zv0?si=a88w_HAmM8HaJSVX"
+    }
+  ]
+  

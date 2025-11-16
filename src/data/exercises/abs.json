@@ -1,0 +1,147 @@
+[
+    {
+      "id": "abs-1",
+      "name": "Plank",
+      "bodyPart": ["core","shoulders"],
+      "equipment": ["bodyweight"],
+      "goals": ["stability","endurance"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Hold a forearm plank maintaining a straight line from head to heels.",
+        "Engage core and glutes.",
+        "Breathe steadily throughout the hold."
+      ],
+      "tips": "Avoid sagging hips; keep ribs down.",
+      "rating": 4.7,
+      "ratingDesc": "Fundamental core stabilization exercise.",
+      "image": "exercises/plank.jpg",
+      "video": "https://www.youtube.com/embed/pvIjsG5Svck?si=G48SEpHWGyygslKB"
+    },
+    {
+      "id": "abs-2",
+      "name": "Hanging Knee Raise",
+      "bodyPart": ["core","hip-flexors"],
+      "equipment": ["pull-up-bar"],
+      "goals": ["strength","definition"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Hang from bar and raise knees toward chest.",
+        "Lower slowly to full hang with control.",
+        "Keep torso stable—avoid swinging."
+      ],
+      "tips": "Progress to straight-leg raises when ready.",
+      "rating": 4.5,
+      "ratingDesc": "Excellent for lower-abs and hip flexor control.",
+      "image": "exercises/hkr.jpg",
+      "video": "https://www.youtube.com/embed/RD_A-Z15ER4?si=jWgiz9mcYtrGnx9s"
+    },
+    {
+      "id": "abs-3",
+      "name": "Bicycle Crunch",
+      "bodyPart": ["core","obliques"],
+      "equipment": ["bodyweight"],
+      "goals": ["definition","endurance"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Lie on back, alternate elbow-to-opposite-knee cycling motion.",
+        "Keep lower back pressed into floor.",
+        "Use slow, controlled motion."
+      ],
+      "tips": "Avoid neck pulling; use core to rotate torso.",
+      "rating": 4.2,
+      "ratingDesc": "Classic oblique and core mover.",
+      "image": "exercises/bicycle.jpg",
+      "video": "https://www.youtube.com/embed/9FGilxCbdz8"
+    },
+    {
+      "id": "abs-4",
+      "name": "Russian Twist",
+      "bodyPart": ["obliques","core"],
+      "equipment": ["bodyweight","med-ball"],
+      "goals": ["definition","stability"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Sit and lean back slightly, rotate torso side-to-side touching floor or ball.",
+        "Keep core engaged and control the movement.",
+        "Increase difficulty by adding weight."
+      ],
+      "tips": "Keep spine long and breathing steady.",
+      "rating": 4.1,
+      "ratingDesc": "Functional rotational core builder.",
+      "image": "exercises/russiantwist.jpg",
+      "video": "https://www.youtube.com/embed/DJQGX2J4IVw?si=zYndItI2Brtj5G8M"
+    },
+    {
+      "id": "abs-5",
+      "name": "Leg Raise",
+      "bodyPart": ["lower-abs","core"],
+      "equipment": ["bodyweight"],
+      "goals": ["definition"],
+      "difficulty": "intermediate",
+      "instructions": [
+        "Lie flat, raise legs to 90° and lower slowly avoiding lumbar arch.",
+        "Control eccentric phase for full tension.",
+        "Use hands under hips if needed for support."
+      ],
+      "tips": "Keep core braced to protect lower back.",
+      "rating": 4.3,
+      "ratingDesc": "Powerful lower ab exercise when performed correctly.",
+      "image": "exercises/legraises.jpg",
+      "video": "https://www.youtube.com/embed/mZ6ERQjCL6k?si=C-Z1mGkvHMZ7o3oq"
+    },
+    {
+      "id": "abs-6",
+      "name": "Mountain Climbers",
+      "bodyPart": ["core","cardio"],
+      "equipment": ["bodyweight"],
+      "goals": ["conditioning","endurance"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Start in plank and run knees toward chest rapidly alternating.",
+        "Maintain steady breathing and stable hips.",
+        "Use as a metabolic core movement."
+      ],
+      "tips": "Keep hips level to maximize core engagement.",
+      "rating": 4.0,
+      "ratingDesc": "Great full-body core conditioning movement.",
+      "image": "exercises/mountain.jpg",
+      "video": "https://www.youtube.com/embed/nmwgirgXLYM"
+    },
+    {
+      "id": "abs-7",
+      "name": "Ab Wheel Rollout",
+      "bodyPart": ["core"],
+      "equipment": ["ab-wheel"],
+      "goals": ["strength","stability"],
+      "difficulty": "advanced",
+      "instructions": [
+        "Kneel and roll wheel forward keeping core braced.",
+        "Roll as far as you can while maintaining neutral spine then return.",
+        "Progress slowly to increase ROM."
+      ],
+      "tips": "Master plank before using wheel to avoid lumbar strain.",
+      "rating": 4.2,
+      "ratingDesc": "High-skill core strength exercise.",
+      "image": "exercises/wheel.jpg",
+      "video": "https://www.youtube.com/embed/VmqDIL2xzbk?si=z_3aYk5PVK2fF23p"
+    },
+    {
+      "id": "abs-8",
+      "name": "Side Plank",
+      "bodyPart": ["obliques","core"],
+      "equipment": ["bodyweight"],
+      "goals": ["stability","posture"],
+      "difficulty": "beginner",
+      "instructions": [
+        "Lie on one side and lift hips into a straight line supported on forearm.",
+        "Hold while breathing steadily, switch sides.",
+        "Focus on hip height and shoulder stacking."
+      ],
+      "tips": "Keep hips lifted and avoid rotation.",
+      "rating": 4.1,
+      "ratingDesc": "Simple and effective oblique stabilizer.",
+      "image": "exercises/sideplanks.jpg",
+      "video": "https://www.youtube.com/embed/N_s9em1xTqU?si=VwyETQOJRzh3TwOL"
+    }
+  ]
+  
